@@ -1,0 +1,17 @@
+#shape{
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+#window{
+  position: relative;
+  width: 700px;
+  height: 300px;
+  margin: auto;
+  background-color: ghostwhite;
+}
+h2{
+  font-size: 20px;
+}
